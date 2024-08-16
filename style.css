@@ -1,0 +1,39 @@
+.header{
+    font-family: 'Playfair Display', serif;
+   
+   
+} 
+#JJ{
+    font-family: 'Sacramento', cursive;
+}
+
+#result{
+    width: 350;
+    height:300;
+    border-style: double;
+    border-color: black;
+}
+#camera{
+    color:rgb(0, 0, 0);
+    border-style: double ;
+    width:380;
+    height:300;
+ 
+}
+
+body{
+    background-color: rgb(195, 174, 146);
+}
+
+.meh{
+    color: rgb(130, 101, 72);
+    background-color: rgb(159, 150, 137);
+}
+
+#result_object_name{
+    color: rgb(225, 204, 181);
+}
+
+#result_object_accuracy{
+    color: rgb(225, 204, 181)
+}
